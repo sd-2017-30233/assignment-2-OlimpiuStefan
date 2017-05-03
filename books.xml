@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+
+    <book id="1">
+        <title>Zon</title>
+        <author>Liviu Rebreanu</author>
+        <genre>realism</genre>
+        <quantity>2</quantity>
+        <price>30</price>
+    </book>
+    <book id="2">
+        <title>Dune</title>
+        <author>Frank Herbert</author>
+        <genre>real</genre>
+        <quantity>3</quantity>
+        <price>40</price>
+    </book>
+    <book id="3">
+        <title>Maitreyi</title>
+        <author>Mircea Eliade</author>
+        <genre>autobiographic</genre>
+        <quantity>10</quantity>
+        <price>35</price>
+    </book>
+
+
+<book>
+<title>Luceafarull</title>
+<author>Mihai Eminescu</author>
+<genre>liric</genre>
+<quantity>3</quantity>
+<price>20</price>
+</book>
+</books>
